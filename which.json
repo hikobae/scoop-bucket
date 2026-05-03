@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "description": "which - which clone for windows",
+    "homepage": "https://github.com/hikobae/which",
+    "license": "MIT",
+    "url": "https://github.com/hikobae/which/releases/download/0.1.0/which-0.1.0-windows-x86_64.zip",
+    "hash": "880ff6de779a725f0f7a91c63a6a2b4946f77e924b4f4f6ad6217aab24273624",
+    "bin": "which.exe",
+    "checkver": {
+        "github": "https://github.com/hikobae/which"
+    },
+    "autoupdate": {
+        "url": "https://github.com/hikobae/which/releases/download/0.1.0/which-0.1.0-windows-x86_64.zip"
+    }
+}
